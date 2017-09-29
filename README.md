@@ -1,26 +1,59 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
-## How to use this template
+# Term Project: Seen That Car :car:
+## Prototype:
+![poster seenthatcar](https://user-images.githubusercontent.com/14333602/30981615-219bf4b6-a4af-11e7-9967-52ca4f2fb92b.png)
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+Demo: https://creator.ionic.io/share/7bdddc4c1e7f
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+## Contributors:
+ Natthakul Boonmee
+ 
+ Rajanart Incharoensakdi
 
-### With the Ionic CLI:
+## Description:
+This mobile phone application allows user to share pictures or videos of vehicles of their liking or disliking.
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+Users have to fill in information of the vehicle; brand, model, color, license plate, and other notable 
 
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myBlank blank
-```
+description of the vehicle prior to post submission. To use the application, user must register via facebook.
 
-Then, to run it, cd into `myBlank` and run:
+## Features:
+### View feed
 
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
+  Users can view other users' post. They can also interact with the post; click like or dislike, or comment under the post.
 
-Substitute ios for android if not on a Mac.
+### Taking photos and videos
+
+  Users can upload photographs and short videos.
+
+### Explore
+
+  Users can see photos or videos that have been taken at their nearby location or via search. Filters can be set to 
+  
+  accommodate to the user's liking.
+
+### View vehicle profile 
+
+  Users can look at its information; how many pictures or videos it has been taken, how many likes and dislikes, etc.
+
+## Work Cycle:
+
+  ### Cycle 1
+  
+  * Taking photos and short videos and submit post
+  * User profile
+  
+  ### Cycle 2
+  
+  * Explore function with filters
+  
+  ### Cycle 3
+  
+  * User interaction with the post: like, dislike, comment
+  * Connect with Facebook
+  * Vehicle profile
+
+
+## Known issues and bugs:
+
 
