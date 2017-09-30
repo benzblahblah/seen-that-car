@@ -10,10 +10,17 @@ Demo: https://creator.ionic.io/share/7bdddc4c1e7f
  
  Rajanart Incharoensakdi
 
-## How-To:
 
+## How-To-Run:
 
-
+```bash
+ $ mkdir repo
+ $ cd repo
+ $ git clone https://github.com/benzblahblah/seen-that-car.git
+ $ cd seen-that-car
+ $ npm install
+ $ ionic serve
+```
 
 ## Description:
 This mobile phone application allows user to share pictures or videos of vehicles of their liking or disliking.
