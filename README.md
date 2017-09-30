@@ -10,6 +10,11 @@ Demo: https://creator.ionic.io/share/7bdddc4c1e7f
  
  Rajanart Incharoensakdi
 
+## How-To:
+
+
+
+
 ## Description:
 This mobile phone application allows user to share pictures or videos of vehicles of their liking or disliking.
 
