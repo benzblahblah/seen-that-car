@@ -1,5 +1,5 @@
 
-# Term Project: Seen That Car :car:
+# Term Project: Seen That Car :car: [This repo just for testing] **
 ## Prototype:
 ![poster seenthatcar](https://user-images.githubusercontent.com/14333602/30981615-219bf4b6-a4af-11e7-9967-52ca4f2fb92b.png)
 
@@ -16,8 +16,8 @@ Demo: https://creator.ionic.io/share/7bdddc4c1e7f
 ```bash
  $ mkdir repo
  $ cd repo
- $ git clone https://github.com/benzblahblah/seen-that-car.git
- $ cd seen-that-car
+ $ git clone https://github.com/benzblahblah/tester-seen-that-car.git
+ $ cd tester-seen-that-car
  $ npm install
  $ ionic serve
 ```
@@ -67,5 +67,6 @@ description of the vehicle prior to post submission. To use the application, use
 
 
 ## Known issues and bugs:
-
+* Camera function can work on Android but not in iOS yet
+* User Interface Design from Creator Ionic Version 1 was not compatible with the ionicframework version 3.x +
 
