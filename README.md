@@ -53,17 +53,17 @@ description of the vehicle prior to post submission. To use the application, use
   ### Cycle 1
   
   * Taking photos and short videos and submit post
+  * Connect with Facebook, Google
   * User profile
   
   ### Cycle 2
   
-  * Explore function with filters
+  * User interaction with the post: like, dislike, comment, search and feed  
+  * Vehicle profile
   
   ### Cycle 3
   
-  * User interaction with the post: like, dislike, comment
-  * Connect with Facebook
-  * Vehicle profile
+  * Search function with filters
 
 
 ## Known issues and bugs:
