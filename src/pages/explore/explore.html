@@ -1,0 +1,52 @@
+<!--
+  Generated template for the ExplorePage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+    <ion-navbar>
+        <button ion-button menuToggle>
+    <ion-icon name="menu"></ion-icon>
+  </button>
+        <ion-title>
+            Explore
+        </ion-title>
+        <ion-buttons end>
+            <button ion-button icon-only>
+      <ion-icon name="buffer"></ion-icon>
+    </button>
+        </ion-buttons>
+    </ion-navbar>
+</ion-header>
+<ion-content padding id="page3">
+    <ion-card *ngIf="photo">
+        <img [src]="photo" />
+    </ion-card>
+    <ion-list id="explore-list10">
+        <ion-searchbar placeholder="Search" name="" id="explore-search2"></ion-searchbar>
+        <ion-item color="none" id="explore-list-item19">
+            <ion-avatar item-left>
+                <img src="assets/img/vCM67rRyCGzbRxYbIkOQ_dave.jpg" />
+            </ion-avatar>
+            <h2>
+                Dave Pocoro
+            </h2>
+        </ion-item>
+    </ion-list>
+    <div>
+        <img src="assets/img/PKS9kU1dSxy4whILYvtT_bad-drivers-7.jpg" style="display:block;width:100%;height:auto;margin-left:auto;margin-right:auto;" />
+    </div>
+    <ion-list id="explore-list12">
+        <ion-item id="explore-list-item-container2">
+            <div id="explore-markdown2" class="show-list-numbers-and-dots">
+                <p style="margin-top:0px;color:#000000;">
+                    Check this, what just he did?
+                </p>
+            </div>
+        </ion-item>
+    </ion-list>
+    <h5 id="explore-heading1" style="color:#000000;font-weight:600;">
+        Loading data...
+    </h5>
+</ion-content>
