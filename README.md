@@ -1,5 +1,5 @@
 
-# Term Project: Seen That Car :car: [This repo just for testing] **
+# Term Project: Seen That Car :car:
 ## Prototype:
 ![poster seenthatcar](https://user-images.githubusercontent.com/14333602/30981615-219bf4b6-a4af-11e7-9967-52ca4f2fb92b.png)
 
