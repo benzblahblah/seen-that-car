@@ -1,5 +1,9 @@
 
 # Term Project: Seen That Car :car:
+
+## Poster A2:
+![poster seenthatcar final](https://user-images.githubusercontent.com/14333602/33403864-9c1e6d16-d594-11e7-9fdb-a2f3a1df02bf.png)
+
 ## Prototype:
 ![poster seenthatcar](https://user-images.githubusercontent.com/14333602/30981615-219bf4b6-a4af-11e7-9967-52ca4f2fb92b.png)
 
