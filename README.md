@@ -14,10 +14,10 @@ Demo: https://creator.ionic.io/share/7bdddc4c1e7f
 ## How-To-Run:
 
 ```bash
- $ mkdir repo
- $ cd repo
- $ git clone https://github.com/benzblahblah/tester-seen-that-car.git
- $ cd tester-seen-that-car
+ $ mkdir repoz
+ $ cd repoz
+ $ git clone https://github.com/benzblahblah/seen-that-car.git
+ $ cd seen-that-car
  $ npm install
  $ ionic serve
 ```
