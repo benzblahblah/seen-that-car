@@ -32,40 +32,39 @@ description of the vehicle prior to post submission. To use the application, use
 ## Features:
 ### View feed
 
-  Users can view other users' post. They can also interact with the post; click like or dislike, or comment under the post.
+  Users can view other users' post. They can also interact with the post; click like.
 
 ### Taking photos and videos
 
-  Users can upload photographs and short videos.
+  Users can upload photographs.
 
 ### Explore
 
-  Users can see photos or videos that have been taken at their nearby location or via search. Filters can be set to 
+  Users can see photos that have been taken at their nearby location or via search. Filters can be set to 
   
   accommodate to the user's liking.
 
-### View vehicle profile 
+### Garage history 
 
-  Users can look at its information; how many pictures or videos it has been taken, how many likes and dislikes, etc.
+  Users can look at its information; how many pictures it has been taken, how many likes, etc.
 
 ## Work Cycle:
 
   ### Cycle 1
   
-  * Taking photos and short videos and submit post
+  * Taking photos and submit post
   * User profile
   
   ### Cycle 2
   
-  * Explore function with filters
+  * Feeds Function
   
   ### Cycle 3
   
-  * User interaction with the post: like, dislike, comment
-  * Connect with Facebook
-  * Vehicle profile
+  * User interaction with the post: Like
+  * Authentication with Facebook or Google Account
+  * Garage History
 
 
 ## Known issues and bugs:
-* Camera function can work on Android but not in iOS yet
-* User Interface Design from Creator Ionic Version 1 was not compatible with the ionicframework version 3.x +
+* Deployed only in Android
