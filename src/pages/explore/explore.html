@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!--
+  Generated template for the ExplorePage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+    <ion-navbar>
+        <button ion-button menuToggle>
+    <ion-icon name="menu"></ion-icon>
+  </button>
+        <ion-title>
+            Explore
+        </ion-title>
+        <ion-buttons end>
+            <button ion-button icon-only>
+      <ion-icon name="buffer"></ion-icon>
+    </button>
+        </ion-buttons>
+    </ion-navbar>
+</ion-header>
+<ion-content padding id="page3">
+
+    <!--<ion-searchbar placeholder="Search" name="" id="explore-search2"></ion-searchbar>-->
+
+    <ion-list>
+
+        <ion-card *ngFor="let feed of feeds | async; let i = index;">
+
+            <ion-item color="none">
+                <ion-avatar item-left>
+                    <img src={{feed.userpicture}} />
+                </ion-avatar>
+                <h2>
+                    {{feed.username}}
+                </h2>
+            </ion-item>
+            <div>
+                <img src="{{feed.carpictire}}" style="display:block;width:100%;height:auto;margin-left:auto;margin-right:auto;" />
+            </div>
+            <ion-list>
+                <ion-item>
+                    <div class="show-list-numbers-and-dots">
+                        <p style="margin-top:0px;color:#000000;">
+                            {{feed.caption}}
+                        </p>
+                    </div>
+                </ion-item>
+
+            </ion-list>
+            <ion-item>
+                <!--<ion-input class="{{i}}" type="text" placeholder="Add Comment..." value=""></ion-input>
+                <button ion-button clear item-end (click)="sendMessage(feed.key,i)">Send</button>-->
+                <button ion-button icon-left clear small (click)="clickLike(feed.key)">
+                    <ion-icon name="thumbs-up"></ion-icon><div>{{feed.Like}} Likes</div>
+                </button>
+            </ion-item>
+
+        </ion-card>
+
+    </ion-list>
+
+</ion-content>
