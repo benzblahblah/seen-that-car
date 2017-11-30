@@ -1,7 +1,7 @@
 
 # SEEN THAT CAR :car:
 
-![poster seenthatcar-added-description](https://user-images.githubusercontent.com/14333602/33415050-cc44ce22-d5c6-11e7-99f7-72089506f62e.png)
+![poster seenthatcar-final-real](https://user-images.githubusercontent.com/14333602/33415825-d430c398-d5cb-11e7-831e-d23ab6f5f1b3.png)
 
 ## Description:
 This mobile phone application allows user to share pictures or videos of vehicles of their liking or disliking.
