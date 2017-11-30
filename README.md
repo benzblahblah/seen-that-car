@@ -1,7 +1,7 @@
 
 # Seen That Car :car:
 
-![poster seenthatcar final](https://user-images.githubusercontent.com/14333602/33403864-9c1e6d16-d594-11e7-9fdb-a2f3a1df02bf.png)
+![poster seenthatcar-added-description](https://user-images.githubusercontent.com/14333602/33415050-cc44ce22-d5c6-11e7-99f7-72089506f62e.png)
 
 ## Prototype:
 ![poster seenthatcar](https://user-images.githubusercontent.com/14333602/30981615-219bf4b6-a4af-11e7-9967-52ca4f2fb92b.png)
