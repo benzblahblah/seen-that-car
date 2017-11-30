@@ -1,9 +1,16 @@
 
-# Seen That Car :car:
+# SEEN THAT CAR :car:
 
 ![poster seenthatcar-added-description](https://user-images.githubusercontent.com/14333602/33415050-cc44ce22-d5c6-11e7-99f7-72089506f62e.png)
 
-## Prototype:
+## Description:
+This mobile phone application allows user to share pictures or videos of vehicles of their liking or disliking.
+
+Users have to fill in information of the vehicle; brand, model, color, license plate, and other notable 
+
+description of the vehicle prior to post submission. To use the application, user must register via facebook.
+
+## First-Prototype:
 ![poster seenthatcar](https://user-images.githubusercontent.com/14333602/30981615-219bf4b6-a4af-11e7-9967-52ca4f2fb92b.png)
 
 Demo: https://creator.ionic.io/share/7bdddc4c1e7f
@@ -12,25 +19,6 @@ Demo: https://creator.ionic.io/share/7bdddc4c1e7f
  Natthakul Boonmee
  
  Rajanart Incharoensakdi
-
-
-## How-To-Run:
-
-```bash
- $ mkdir repoz
- $ cd repoz
- $ git clone https://github.com/benzblahblah/seen-that-car.git
- $ cd seen-that-car
- $ npm install
- $ ionic serve
-```
-
-## Description:
-This mobile phone application allows user to share pictures or videos of vehicles of their liking or disliking.
-
-Users have to fill in information of the vehicle; brand, model, color, license plate, and other notable 
-
-description of the vehicle prior to post submission. To use the application, user must register via facebook.
 
 ## Features:
 ### View feed
@@ -51,6 +39,16 @@ description of the vehicle prior to post submission. To use the application, use
 
   Users can look at its information; how many pictures it has been taken, how many likes, etc.
   
+  ## How-To-Run:
 
+```bash
+ $ mkdir repoz
+ $ cd repoz
+ $ git clone https://github.com/benzblahblah/seen-that-car.git
+ $ cd seen-that-car
+ $ npm install
+ $ ionic serve
+```
+ 
 ## Known issues and bugs:
-* Deployed only in Android
+* Only Available on Android for now
