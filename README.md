@@ -1,7 +1,6 @@
 
-# Term Project: Seen That Car :car:
+# Seen That Car :car:
 
-## Poster A2:
 ![poster seenthatcar final](https://user-images.githubusercontent.com/14333602/33403864-9c1e6d16-d594-11e7-9fdb-a2f3a1df02bf.png)
 
 ## Prototype:
@@ -51,24 +50,7 @@ description of the vehicle prior to post submission. To use the application, use
 ### Garage history 
 
   Users can look at its information; how many pictures it has been taken, how many likes, etc.
-
-## Work Cycle:
-
-  ### Cycle 1
   
-  * Taking photos and submit post
-  * User profile
-  
-  ### Cycle 2
-  
-  * Feeds Function
-  
-  ### Cycle 3
-  
-  * User interaction with the post: Like
-  * Authentication with Facebook or Google Account
-  * Garage History
-
 
 ## Known issues and bugs:
 * Deployed only in Android
